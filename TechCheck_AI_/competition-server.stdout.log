@@ -1,0 +1,9 @@
+▲ Next.js 16.4.2
+- Local:         http://127.0.0.1:3001
+- Network:       http://127.0.0.1:3001
+✓ Ready in 246ms
+✓ Running next.config.ts took 46ms
+
+TechCheck is ready: http://127.0.0.1:3001/
+Keep this window open during the demonstration. Ctrl+C stops the server.
+Competition mode: external AI disabled. Use the built-in examples.
